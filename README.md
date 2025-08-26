@@ -10,7 +10,8 @@ De HTML versie van het informatiemodel is [hier](https://imbrt.github.io/imbrt/)
 Alle gepubliceerde versies zijn beschikbaar in de [releases](https://github.com/imbrt/imbrt/tree/main/releases/) folder.
 
 ### _Licentie_
-Deze website is een uitgave van het het programma _Visie Topografie / BRT.Next_ van het Kadaster. De informatie op deze website is informatief en bedoeld ter verkenning van mogelijke uitwerkingen. Aan de informatie op deze website kunnen geen rechten worden ontleend. Voor de informatie op deze website geldt de [Creative Commons Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal Licentie (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/legalcode.nl).
+Deze website is een uitgave van het het programma _Visie Topografie / BRT.Next_ van het Kadaster.<br>
+Aan de informatie op deze website kunnen geen rechten worden ontleend. Voor de informatie op deze website geldt de [Creative Commons Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal Licentie (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/legalcode.nl).
 
 [![](docs/images/cc.svg) ![](docs/images/by.svg) ![](docs/images/nd.svg)](https://creativecommons.org/licenses/by-nd/4.0/legalcode.nl)
 
