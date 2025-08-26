@@ -3,12 +3,11 @@
 # Basisregistratie Topografie Informatiemodel
 
 Deze repository bevat de meest recente versie van de BRT Catalogus en het BRT Informatiemodel.<br>
+De BRT Catalogus is gepubliceerd op https://imbrt.github.io/imbrt/ <br>
+Alle gepubliceerde versies zijn beschikbaar in de [releases](https://github.com/imbrt/imbrt/tree/main/releases/) folder.
+
 De bijbehorende waardelijsten zijn beschikbaar in de repository [imbrt/waardelijsten](https://github.com/imbrt/waardelijsten).<br>
 Meer informatie over de BRT kan gelezen worden in de [BRT Praktijkhandleiding](https://imbrt.github.io/praktijkhandleiding/).
-
-De HTML versie van het informatiemodel is [hier](https://imbrt.github.io/imbrt/) te bekijken.
-
-Alle gepubliceerde versies zijn beschikbaar in de [releases](https://github.com/imbrt/imbrt/tree/main/releases/) folder.
 
 ### _Licentie_
 Deze website is een uitgave van het het programma _Visie Topografie / BRT.Next_ van het Kadaster.<br>
