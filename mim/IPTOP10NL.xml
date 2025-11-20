@@ -50,12 +50,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
          <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
          <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
          <mim:datatypen><!--https://docs.geostandaarden.nl/mim/mim/#referentielijst-->
-            <mim:Referentielijst index="6580" id="top10nl-referentielijst-aantalsporen">
+            <mim:Referentielijst index="6650" id="top10nl-referentielijst-aantalsporen">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6591">
+                  <mim:GeneralisatieDatatypen index="6661">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6591" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6661" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -74,12 +74,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6191" id="top10nl-referentielijst-bronregistratie">
+            <mim:Referentielijst index="6232" id="top10nl-referentielijst-bronregistratie">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6207">
+                  <mim:GeneralisatieDatatypen index="6248">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6207" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6248" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -101,12 +101,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6302" id="top10nl-referentielijst-functie">
+            <mim:Referentielijst index="6372" id="top10nl-referentielijst-functie">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6313">
+                  <mim:GeneralisatieDatatypen index="6383">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6313" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6383" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -124,12 +124,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="7121" id="top10nl-referentielijst-hoogteklasserelief">
+            <mim:Referentielijst index="7191" id="top10nl-referentielijst-hoogteklasserelief">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="7132">
+                  <mim:GeneralisatieDatatypen index="7202">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="7132" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="7202" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -147,12 +147,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="7025" id="top10nl-referentielijst-liggingbegroeiing">
+            <mim:Referentielijst index="7095" id="top10nl-referentielijst-liggingbegroeiing">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="7036">
+                  <mim:GeneralisatieDatatypen index="7106">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="7036" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="7106" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -170,12 +170,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6407" id="top10nl-referentielijst-liggingbodem">
+            <mim:Referentielijst index="6477" id="top10nl-referentielijst-liggingbodem">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6418">
+                  <mim:GeneralisatieDatatypen index="6488">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6418" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6488" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -193,12 +193,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6612" id="top10nl-referentielijst-liggingoppervlaktewater">
+            <mim:Referentielijst index="6682" id="top10nl-referentielijst-liggingoppervlaktewater">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6623">
+                  <mim:GeneralisatieDatatypen index="6693">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6623" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6693" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -216,12 +216,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6932" id="top10nl-referentielijst-liggingspoor">
+            <mim:Referentielijst index="7002" id="top10nl-referentielijst-liggingspoor">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6943">
+                  <mim:GeneralisatieDatatypen index="7013">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6943" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="7013" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -239,12 +239,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6900" id="top10nl-referentielijst-liggingweg">
+            <mim:Referentielijst index="6970" id="top10nl-referentielijst-liggingweg">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6911">
+                  <mim:GeneralisatieDatatypen index="6981">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6911" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6981" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -262,12 +262,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="8267" id="top10nl-referentielijst-objectstatus">
+            <mim:Referentielijst index="8337" id="top10nl-referentielijst-objectstatus">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="8278">
+                  <mim:GeneralisatieDatatypen index="8348">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="8278" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="8348" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -285,12 +285,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6740" id="top10nl-referentielijst-oppervlaktewaterbreedteklasse">
+            <mim:Referentielijst index="6810" id="top10nl-referentielijst-oppervlaktewaterbreedteklasse">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6751">
+                  <mim:GeneralisatieDatatypen index="6821">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6751" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6821" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -308,12 +308,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="7217" id="top10nl-referentielijst-referentievlak">
+            <mim:Referentielijst index="7287" id="top10nl-referentielijst-referentievlak">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="7228">
+                  <mim:GeneralisatieDatatypen index="7298">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="7228" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="7298" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -331,12 +331,35 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="7843" id="top10nl-referentielijst-taal">
+            <mim:Referentielijst index="6279" id="top10nl-referentielijst-subtypeoppervlaktewater">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="7859">
+                  <mim:GeneralisatieDatatypen index="6290">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="7859" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6290" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                     </mim:supertype>
+                     <mim-ext:kenmerken>
+                        <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
+                        <mim-ext:Kenmerk naam="type">GENERALISATIE</mim-ext:Kenmerk>
+                     </mim-ext:kenmerken>
+                  </mim:GeneralisatieDatatypen>
+               </mim:supertypen>
+               <mim:naam>SubtypeOppervlaktewater</mim:naam>
+               <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
+               <mim:definitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:definitie>
+               <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
+               <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
+               <mim:locatie>https://github.com/imbrt/waardelijsten/raw/refs/heads/main/top10nl/Oppervlaktewater_Subtype.csv</mim:locatie>
+               <mim-ext:kenmerken>
+                  <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
+               </mim-ext:kenmerken>
+            </mim:Referentielijst>
+            <mim:Referentielijst index="7913" id="top10nl-referentielijst-taal">
+               <mim:supertypen>
+                  <mim:GeneralisatieDatatypen index="7929">
+                     <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
+                     <mim:supertype>
+                        <mim-ref:DatatypeRef index="7929" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -359,12 +382,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                </mim-ext:kenmerken>
             </mim:Referentielijst>
             <!--https://docs.geostandaarden.nl/mim/mim/#gestructureerd-datatype-->
-            <mim:GestructureerdDatatype index="6471" id="top10nl-gestructureerddatatype-taalstring">
+            <mim:GestructureerdDatatype index="6541" id="top10nl-gestructureerddatatype-taalstring">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6487">
+                  <mim:GeneralisatieDatatypen index="6557">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim:Datatype index="6487">CharacterString</mim:Datatype>
+                        <mim:Datatype index="6557">CharacterString</mim:Datatype>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -380,7 +403,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                </mim:definitie>
                <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                <mim:dataElementen><!--https://docs.geostandaarden.nl/mim/mim/#data-element-->
-                  <mim:DataElement index="6500">
+                  <mim:DataElement index="6570">
                      <mim:naam>waarde</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -397,7 +420,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <!--https://docs.geostandaarden.nl/mim/mim/#metagegeven-type-domein-van-een-waarde-een-gegeven-->
                      <mim:type>
-                        <mim:Datatype index="6500">CharacterString</mim:Datatype>
+                        <mim:Datatype index="6570">CharacterString</mim:Datatype>
                      </mim:type>
                      <!--https://docs.geostandaarden.nl/mim/mim/#metagegeven-kardinaliteit-->
                      <mim:kardinaliteit>1</mim:kardinaliteit>
@@ -405,7 +428,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:DataElement>
-                  <mim:DataElement index="6542">
+                  <mim:DataElement index="6612">
                      <mim:naam>taal</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -415,7 +438,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      </mim:definitie>
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="6542" xlink:href="#top10nl-referentielijst-taal">Taal</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6612" xlink:href="#top10nl-referentielijst-taal">Taal</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:kardinaliteit>0..1</mim:kardinaliteit>
                      <mim-ext:kenmerken>
@@ -427,12 +450,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:GestructureerdDatatype>
-            <mim:Referentielijst index="6996" id="top10nl-referentielijst-typebegroeiing">
+            <mim:Referentielijst index="7066" id="top10nl-referentielijst-typebegroeiing">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="7007">
+                  <mim:GeneralisatieDatatypen index="7077">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="7007" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="7077" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -450,12 +473,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6804" id="top10nl-referentielijst-typebodem">
+            <mim:Referentielijst index="6874" id="top10nl-referentielijst-typebodem">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6815">
+                  <mim:GeneralisatieDatatypen index="6885">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6815" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6885" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -473,12 +496,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="7153" id="top10nl-referentielijst-typeconstructie">
+            <mim:Referentielijst index="7223" id="top10nl-referentielijst-typeconstructie">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="7164">
+                  <mim:GeneralisatieDatatypen index="7234">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="7164" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="7234" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -496,12 +519,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6836" id="top10nl-referentielijst-typefunctioneleruimte">
+            <mim:Referentielijst index="6906" id="top10nl-referentielijst-typefunctioneleruimte">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6847">
+                  <mim:GeneralisatieDatatypen index="6917">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6847" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6917" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -519,12 +542,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="7089" id="top10nl-referentielijst-typegebouw">
+            <mim:Referentielijst index="7159" id="top10nl-referentielijst-typegebouw">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="7100">
+                  <mim:GeneralisatieDatatypen index="7170">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="7100" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="7170" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -542,12 +565,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="7057" id="top10nl-referentielijst-typegeografischeruimte">
+            <mim:Referentielijst index="7127" id="top10nl-referentielijst-typegeografischeruimte">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="7068">
+                  <mim:GeneralisatieDatatypen index="7138">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="7068" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="7138" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -565,12 +588,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="7185" id="top10nl-referentielijst-typehoogte">
+            <mim:Referentielijst index="7255" id="top10nl-referentielijst-typehoogte">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="7196">
+                  <mim:GeneralisatieDatatypen index="7266">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="7196" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="7266" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -588,12 +611,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6772" id="top10nl-referentielijst-typekunstwerk">
+            <mim:Referentielijst index="6842" id="top10nl-referentielijst-typekunstwerk">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6783">
+                  <mim:GeneralisatieDatatypen index="6853">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6783" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6853" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -611,12 +634,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6270" id="top10nl-referentielijst-typeleiding">
+            <mim:Referentielijst index="6340" id="top10nl-referentielijst-typeleiding">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6281">
+                  <mim:GeneralisatieDatatypen index="6351">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6281" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6351" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -634,12 +657,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6868" id="top10nl-referentielijst-typeoppervlaktewater">
+            <mim:Referentielijst index="6938" id="top10nl-referentielijst-typeoppervlaktewater">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6879">
+                  <mim:GeneralisatieDatatypen index="6949">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6879" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6949" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -657,12 +680,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="7249" id="top10nl-referentielijst-typeplaats">
+            <mim:Referentielijst index="7319" id="top10nl-referentielijst-typeplaats">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="7260">
+                  <mim:GeneralisatieDatatypen index="7330">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="7260" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="7330" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -680,12 +703,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6238" id="top10nl-referentielijst-typeregistratieveruimte">
+            <mim:Referentielijst index="6308" id="top10nl-referentielijst-typeregistratieveruimte">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6249">
+                  <mim:GeneralisatieDatatypen index="6319">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6249" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6319" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -703,12 +726,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6439" id="top10nl-referentielijst-typerelief">
+            <mim:Referentielijst index="6509" id="top10nl-referentielijst-typerelief">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6450">
+                  <mim:GeneralisatieDatatypen index="6520">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6450" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6520" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -726,12 +749,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6708" id="top10nl-referentielijst-typespoor">
+            <mim:Referentielijst index="6778" id="top10nl-referentielijst-typespoor">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6719">
+                  <mim:GeneralisatieDatatypen index="6789">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6719" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6789" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -749,12 +772,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="7281" id="top10nl-referentielijst-typeweg">
+            <mim:Referentielijst index="7351" id="top10nl-referentielijst-typeweg">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="7292">
+                  <mim:GeneralisatieDatatypen index="7362">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="7292" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="7362" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -772,12 +795,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6676" id="top10nl-referentielijst-verhardingsbreedteklasse">
+            <mim:Referentielijst index="6746" id="top10nl-referentielijst-verhardingsbreedteklasse">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6687">
+                  <mim:GeneralisatieDatatypen index="6757">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6687" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6757" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -795,12 +818,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6644" id="top10nl-referentielijst-verhardingstype">
+            <mim:Referentielijst index="6714" id="top10nl-referentielijst-verhardingstype">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6655">
+                  <mim:GeneralisatieDatatypen index="6725">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6655" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="6725" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -818,12 +841,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="6964" id="top10nl-referentielijst-vervoersfunctie">
+            <mim:Referentielijst index="7034" id="top10nl-referentielijst-vervoersfunctie">
                <mim:supertypen>
-                  <mim:GeneralisatieDatatypen index="6975">
+                  <mim:GeneralisatieDatatypen index="7045">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:DatatypeRef index="6975" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="7045" xlink:href="#top10nl-referentielijst-waardelijstbrt">WaardelijstBRT</mim-ref:DatatypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -841,7 +864,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Referentielijst>
-            <mim:Referentielijst index="7886" id="top10nl-referentielijst-waardelijstbrt">
+            <mim:Referentielijst index="7956" id="top10nl-referentielijst-waardelijstbrt">
                <mim:naam>WaardelijstBRT</mim:naam>
                <mim:herkomst>BRT</mim:herkomst>
                <mim:definitie>
@@ -858,7 +881,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:locatie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:locatie>
                <mim:referentieElementen><!--https://docs.geostandaarden.nl/mim/mim/#referentie-element-->
-                  <mim:ReferentieElement index="7907">
+                  <mim:ReferentieElement index="7977">
                      <mim:naam>code</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -869,7 +892,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="7907">CharacterString</mim:Datatype>
+                        <mim:Datatype index="7977">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:kardinaliteit>1</mim:kardinaliteit>
                      <!--https://docs.geostandaarden.nl/mim/mim/#metagegeven-identificerend-->
@@ -878,7 +901,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:ReferentieElement>
-                  <mim:ReferentieElement index="7940">
+                  <mim:ReferentieElement index="8010">
                      <mim:naam>waarde</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -889,7 +912,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="7940">CharacterString</mim:Datatype>
+                        <mim:Datatype index="8010">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:kardinaliteit>0..1</mim:kardinaliteit>
                      <mim:identificerend>false</mim:identificerend>
@@ -897,7 +920,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:ReferentieElement>
-                  <mim:ReferentieElement index="7972">
+                  <mim:ReferentieElement index="8042">
                      <mim:naam>definitie</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -908,7 +931,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="7972">CharacterString</mim:Datatype>
+                        <mim:Datatype index="8042">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:kardinaliteit>0..1</mim:kardinaliteit>
                      <mim:identificerend>false</mim:identificerend>
@@ -916,7 +939,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:ReferentieElement>
-                  <mim:ReferentieElement index="8004">
+                  <mim:ReferentieElement index="8074">
                      <mim:naam>herkomstDefinitie</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -927,7 +950,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="8004">CharacterString</mim:Datatype>
+                        <mim:Datatype index="8074">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:kardinaliteit>0..1</mim:kardinaliteit>
                      <mim:identificerend>false</mim:identificerend>
@@ -935,14 +958,14 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:ReferentieElement>
-                  <mim:ReferentieElement index="8036">
+                  <mim:ReferentieElement index="8106">
                      <mim:naam>inwinningscriteria</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:definitie>
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="8036">CharacterString</mim:Datatype>
+                        <mim:Datatype index="8106">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:kardinaliteit>0..1</mim:kardinaliteit>
                      <mim:identificerend>false</mim:identificerend>
@@ -950,14 +973,14 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:ReferentieElement>
-                  <mim:ReferentieElement index="8058">
+                  <mim:ReferentieElement index="8128">
                      <mim:naam>volledigheid</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:definitie>
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="8058">CharacterString</mim:Datatype>
+                        <mim:Datatype index="8128">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:kardinaliteit>0..1</mim:kardinaliteit>
                      <mim:identificerend>false</mim:identificerend>
@@ -965,7 +988,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:ReferentieElement>
-                  <mim:ReferentieElement index="8080">
+                  <mim:ReferentieElement index="8150">
                      <mim:naam>lijn</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -976,7 +999,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="8080">Boolean</mim:Datatype>
+                        <mim:Datatype index="8150">Boolean</mim:Datatype>
                      </mim:type>
                      <mim:kardinaliteit>0..1</mim:kardinaliteit>
                      <mim:identificerend>false</mim:identificerend>
@@ -984,7 +1007,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:ReferentieElement>
-                  <mim:ReferentieElement index="8112">
+                  <mim:ReferentieElement index="8182">
                      <mim:naam>punt</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -995,7 +1018,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="8112">Boolean</mim:Datatype>
+                        <mim:Datatype index="8182">Boolean</mim:Datatype>
                      </mim:type>
                      <mim:kardinaliteit>0..1</mim:kardinaliteit>
                      <mim:identificerend>false</mim:identificerend>
@@ -1003,7 +1026,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:ReferentieElement>
-                  <mim:ReferentieElement index="8144">
+                  <mim:ReferentieElement index="8214">
                      <mim:naam>vlak</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -1014,7 +1037,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="8144">Boolean</mim:Datatype>
+                        <mim:Datatype index="8214">Boolean</mim:Datatype>
                      </mim:type>
                      <mim:kardinaliteit>0..1</mim:kardinaliteit>
                      <mim:identificerend>false</mim:identificerend>
@@ -1022,7 +1045,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:ReferentieElement>
-                  <mim:ReferentieElement index="8176">
+                  <mim:ReferentieElement index="8246">
                      <mim:naam>datumVanaf</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -1033,7 +1056,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="8176">Date</mim:Datatype>
+                        <mim:Datatype index="8246">Date</mim:Datatype>
                      </mim:type>
                      <mim:kardinaliteit>1</mim:kardinaliteit>
                      <mim:identificerend>false</mim:identificerend>
@@ -1041,7 +1064,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:ReferentieElement>
-                  <mim:ReferentieElement index="8208">
+                  <mim:ReferentieElement index="8278">
                      <mim:naam>datumTot</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -1052,7 +1075,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="8208">Date</mim:Datatype>
+                        <mim:Datatype index="8278">Date</mim:Datatype>
                      </mim:type>
                      <mim:kardinaliteit>0..1</mim:kardinaliteit>
                      <mim:identificerend>false</mim:identificerend>
@@ -1642,7 +1665,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Objecttype>
-            <mim:Objecttype index="5848" id="top10nl-objecttype-databron">
+            <mim:Objecttype index="5889" id="top10nl-objecttype-databron">
                <mim:naam>Databron</mim:naam>
                <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                <mim:definitie>
@@ -1654,7 +1677,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                <mim:indicatieAbstractObject>false</mim:indicatieAbstractObject>
                <mim:attribuutsoorten>
-                  <mim:Attribuutsoort index="5865">
+                  <mim:Attribuutsoort index="5906">
                      <mim:naam>identificatie</mim:naam>
                      <mim:herkomst>DCTERMS</mim:herkomst>
                      <mim:definitie>
@@ -1665,7 +1688,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="5865">CharacterString</mim:Datatype>
+                        <mim:Datatype index="5906">CharacterString</mim:Datatype>
                      </mim:type>
                      <!--https://docs.geostandaarden.nl/mim/mim/#metagegeven-patroon-->
                      <mim:patroon>('[a-ZA-Z|0-9|_|.|\/|:|]')</mim:patroon>
@@ -1681,7 +1704,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5916">
+                  <mim:Attribuutsoort index="5957">
                      <mim:naam>isVersieVan</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -1692,7 +1715,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="5916" xlink:href="#top10nl-referentielijst-bronregistratie">Bronregistratie</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="5957" xlink:href="#top10nl-referentielijst-bronregistratie">Bronregistratie</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -1706,7 +1729,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5951">
+                  <mim:Attribuutsoort index="5992">
                      <mim:naam>beschrijving</mim:naam>
                      <mim:herkomst>DCTERMS</mim:herkomst>
                      <mim:definitie>
@@ -1717,7 +1740,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="5951">CharacterString</mim:Datatype>
+                        <mim:Datatype index="5992">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -1731,7 +1754,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5998">
+                  <mim:Attribuutsoort index="6039">
                      <mim:naam>laatsteWijziging</mim:naam>
                      <mim:herkomst>DCAT</mim:herkomst>
                      <mim:definitie>
@@ -1742,7 +1765,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="5998">DateTime</mim:Datatype>
+                        <mim:Datatype index="6039">DateTime</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -2868,7 +2891,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   </mim:Attribuutsoort>
                </mim:attribuutsoorten>
             </mim:Objecttype>
-            <mim:Objecttype index="5619" id="top10nl-objecttype-naam">
+            <mim:Objecttype index="5660" id="top10nl-objecttype-naam">
                <mim:naam>Naam</mim:naam>
                <mim:herkomst>SKOS-XL</mim:herkomst>
                <mim:definitie>
@@ -2886,7 +2909,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:indicatieAbstractObject>false</mim:indicatieAbstractObject>
                <mim:attribuutsoorten>
-                  <mim:Attribuutsoort index="5642">
+                  <mim:Attribuutsoort index="5683">
                      <mim:naam>identificatie</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -2897,7 +2920,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="5642">CharacterString</mim:Datatype>
+                        <mim:Datatype index="5683">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -2911,7 +2934,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5687">
+                  <mim:Attribuutsoort index="5728">
                      <mim:naam>naam</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -2922,7 +2945,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>NL-SBB</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="5687" xlink:href="#top10nl-gestructureerddatatype-taalstring">TaalString</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="5728" xlink:href="#top10nl-gestructureerddatatype-taalstring">TaalString</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -2938,7 +2961,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5737">
+                  <mim:Attribuutsoort index="5778">
                      <mim:naam>herkomst</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -2954,7 +2977,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      </mim:toelichting>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="5737">CharacterString</mim:Datatype>
+                        <mim:Datatype index="5778">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -2968,7 +2991,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5785">
+                  <mim:Attribuutsoort index="5826">
                      <mim:naam>officieel</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -2979,7 +3002,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="5785">Boolean</mim:Datatype>
+                        <mim:Datatype index="5826">Boolean</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3061,6 +3084,33 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
                   <mim:Attribuutsoort index="3098">
+                     <mim:naam>subtype</mim:naam>
+                     <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
+                     <mim:definitie>
+                        <xhtml:body>
+                           <xhtml:p>Nadere specificatie van een oppervlaktewater.</xhtml:p>
+                        </xhtml:body>
+                     </mim:definitie>
+                     <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
+                     <mim:toelichting>Dit attribuut wordt alleen gebruikt voor waterloop.</mim:toelichting>
+                     <mim:datumOpname>01-01-2026</mim:datumOpname>
+                     <mim:type>
+                        <mim-ref:DatatypeRef index="3098"
+                                             xlink:href="#top10nl-referentielijst-subtypeoppervlaktewater">SubtypeOppervlaktewater</mim-ref:DatatypeRef>
+                     </mim:type>
+                     <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
+                     <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
+                     <mim:kardinaliteit>0..1</mim:kardinaliteit>
+                     <mim:authentiek><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:authentiek>
+                     <mim:indicatieAfleidbaar>false</mim:indicatieAfleidbaar>
+                     <mim:indicatieClassificerend>false</mim:indicatieClassificerend>
+                     <mim:mogelijkGeenWaarde>false</mim:mogelijkGeenWaarde>
+                     <mim:identificerend>false</mim:identificerend>
+                     <mim-ext:kenmerken>
+                        <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
+                     </mim-ext:kenmerken>
+                  </mim:Attribuutsoort>
+                  <mim:Attribuutsoort index="3139">
                      <mim:naam>typeOppervlaktewater</mim:naam>
                      <mim:alias>type water</mim:alias>
                      <mim:herkomst>BRT</mim:herkomst>
@@ -3072,7 +3122,8 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="3098" xlink:href="#top10nl-referentielijst-typeoppervlaktewater">TypeOppervlaktewater</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="3139"
+                                             xlink:href="#top10nl-referentielijst-subtypeoppervlaktewater">SubtypeOppervlaktewater</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3086,7 +3137,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="3140">
+                  <mim:Attribuutsoort index="3181">
                      <mim:naam>breedteklasse</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -3097,7 +3148,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="3140"
+                        <mim-ref:DatatypeRef index="3181"
                                              xlink:href="#top10nl-referentielijst-oppervlaktewaterbreedteklasse">OppervlaktewaterBreedteklasse</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
@@ -3112,7 +3163,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="3181">
+                  <mim:Attribuutsoort index="3222">
                      <mim:naam>ligging</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -3123,7 +3174,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="3181"
+                        <mim-ref:DatatypeRef index="3222"
                                              xlink:href="#top10nl-referentielijst-liggingoppervlaktewater">LiggingOppervlaktewater</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
@@ -3138,7 +3189,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="3219">
+                  <mim:Attribuutsoort index="3260">
                      <mim:naam>relatieveHoogteligging</mim:naam>
                      <mim:alias>relatieve hoogteligging</mim:alias>
                      <mim:herkomst>BGT</mim:herkomst>
@@ -3150,7 +3201,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BGT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="3219">Integer</mim:Datatype>
+                        <mim:Datatype index="3260">Integer</mim:Datatype>
                      </mim:type>
                      <mim:patroon>[-9,9]</mim:patroon>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
@@ -3165,7 +3216,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="3273">
+                  <mim:Attribuutsoort index="3314">
                      <mim:naam>naam</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -3176,7 +3227,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="3273" xlink:href="#top10nl-gestructureerddatatype-taalstring">TaalString</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="3314" xlink:href="#top10nl-gestructureerddatatype-taalstring">TaalString</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3190,7 +3241,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="3311">
+                  <mim:Attribuutsoort index="3352">
                      <mim:naam>brugnaam</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -3201,7 +3252,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="3311">CharacterString</mim:Datatype>
+                        <mim:Datatype index="3352">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3215,7 +3266,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="3355">
+                  <mim:Attribuutsoort index="3396">
                      <mim:naam>sluisnaam</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -3226,7 +3277,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="3355">CharacterString</mim:Datatype>
+                        <mim:Datatype index="3396">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3242,7 +3293,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   </mim:Attribuutsoort>
                </mim:attribuutsoorten>
                <mim:relatiesoorten><!--https://docs.geostandaarden.nl/mim/mim/#relatiesoort-->
-                  <mim:Relatiesoort index="3400">
+                  <mim:Relatiesoort index="3441">
                      <mim:naam>heeftNaam</mim:naam>
                      <mim:alias>heeft naam</mim:alias>
                      <mim:herkomst>SKOS-XL</mim:herkomst>
@@ -3262,7 +3313,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <!--https://docs.geostandaarden.nl/mim/mim/#metagegeven-aggregatietype-->
                      <mim:aggregatietype>Geen</mim:aggregatietype>
                      <mim:doel>
-                        <mim-ref:ObjecttypeRef index="3400"
+                        <mim-ref:ObjecttypeRef index="3441"
                                                label="heeftNaam"
                                                xlink:href="#top10nl-objecttype-naam">Naam</mim-ref:ObjecttypeRef>
                      </mim:doel>
@@ -3276,7 +3327,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Objecttype>
-            <mim:Objecttype index="3457" id="top10nl-objecttype-plaats">
+            <mim:Objecttype index="3498" id="top10nl-objecttype-plaats">
                <mim:naam>Plaats</mim:naam>
                <mim:alias>Plaats</mim:alias>
                <mim:herkomst>BRT</mim:herkomst>
@@ -3289,20 +3340,20 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:indicatieAbstractObject>false</mim:indicatieAbstractObject>
                <mim:supertypen>
-                  <mim:GeneralisatieObjecttypen index="3474">
+                  <mim:GeneralisatieObjecttypen index="3515">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:ObjecttypeRef index="3474" xlink:href="#top10nl-objecttype-topografischobject">TopografischObject</mim-ref:ObjecttypeRef>
+                        <mim-ref:ObjecttypeRef index="3515" xlink:href="#top10nl-objecttype-topografischobject">TopografischObject</mim-ref:ObjecttypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                         <mim-ext:Kenmerk naam="type">GENERALISATIE</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:GeneralisatieObjecttypen>
-                  <mim:GeneralisatieObjecttypen index="3482">
+                  <mim:GeneralisatieObjecttypen index="3523">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ext:ConstructieRef index="3482" xlink:href="#constructie-geografischeruimte">GeografischeRuimte</mim-ext:ConstructieRef>
+                        <mim-ext:ConstructieRef index="3523" xlink:href="#constructie-geografischeruimte">GeografischeRuimte</mim-ext:ConstructieRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -3311,7 +3362,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   </mim:GeneralisatieObjecttypen>
                </mim:supertypen>
                <mim:attribuutsoorten>
-                  <mim:Attribuutsoort index="3492">
+                  <mim:Attribuutsoort index="3533">
                      <mim:naam>geometrie</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -3322,7 +3373,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:KeuzeRef index="3492" xlink:href="#top10nl-keuze-vlakofmultivlak">VlakOfMultivlak</mim-ref:KeuzeRef>
+                        <mim-ref:KeuzeRef index="3533" xlink:href="#top10nl-keuze-vlakofmultivlak">VlakOfMultivlak</mim-ref:KeuzeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3336,7 +3387,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="3530">
+                  <mim:Attribuutsoort index="3571">
                      <mim:naam>typePlaats</mim:naam>
                      <mim:alias>type plaats</mim:alias>
                      <mim:herkomst>BRT</mim:herkomst>
@@ -3348,7 +3399,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="3530" xlink:href="#top10nl-referentielijst-typeplaats">TypePlaats</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="3571" xlink:href="#top10nl-referentielijst-typeplaats">TypePlaats</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3362,7 +3413,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="3572">
+                  <mim:Attribuutsoort index="3613">
                      <mim:naam>bebouwdeKom</mim:naam>
                      <mim:alias>bebouwde kom</mim:alias>
                      <mim:herkomst>BRT</mim:herkomst>
@@ -3374,7 +3425,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="3572">Boolean</mim:Datatype>
+                        <mim:Datatype index="3613">Boolean</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3388,7 +3439,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="3617">
+                  <mim:Attribuutsoort index="3658">
                      <mim:naam>naam</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -3399,7 +3450,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="3617" xlink:href="#top10nl-gestructureerddatatype-taalstring">TaalString</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="3658" xlink:href="#top10nl-gestructureerddatatype-taalstring">TaalString</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3415,7 +3466,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   </mim:Attribuutsoort>
                </mim:attribuutsoorten>
                <mim:relatiesoorten>
-                  <mim:Relatiesoort index="3656">
+                  <mim:Relatiesoort index="3697">
                      <mim:naam>heeftNaam</mim:naam>
                      <mim:alias>heeft naam</mim:alias>
                      <mim:herkomst>SKOS-XL</mim:herkomst>
@@ -3433,7 +3484,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:unidirectioneel>true</mim:unidirectioneel>
                      <mim:aggregatietype>Geen</mim:aggregatietype>
                      <mim:doel>
-                        <mim-ref:ObjecttypeRef index="3656"
+                        <mim-ref:ObjecttypeRef index="3697"
                                                label="heeftNaam"
                                                xlink:href="#top10nl-objecttype-naam">Naam</mim-ref:ObjecttypeRef>
                      </mim:doel>
@@ -3447,7 +3498,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Objecttype>
-            <mim:Objecttype index="3710" id="top10nl-objecttype-registratieveruimte">
+            <mim:Objecttype index="3751" id="top10nl-objecttype-registratieveruimte">
                <mim:naam>RegistratieveRuimte</mim:naam>
                <mim:begrip>http://definities.geostandaarden.nl/nen3610-2022/id/begrip/registratieve_ruimte</mim:begrip>
                <mim:alias>Registratieve ruimte</mim:alias>
@@ -3462,20 +3513,20 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:indicatieAbstractObject>false</mim:indicatieAbstractObject>
                <mim:supertypen>
-                  <mim:GeneralisatieObjecttypen index="3727">
+                  <mim:GeneralisatieObjecttypen index="3768">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:ObjecttypeRef index="3727" xlink:href="#top10nl-objecttype-topografischobject">TopografischObject</mim-ref:ObjecttypeRef>
+                        <mim-ref:ObjecttypeRef index="3768" xlink:href="#top10nl-objecttype-topografischobject">TopografischObject</mim-ref:ObjecttypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                         <mim-ext:Kenmerk naam="type">GENERALISATIE</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:GeneralisatieObjecttypen>
-                  <mim:GeneralisatieObjecttypen index="3735">
+                  <mim:GeneralisatieObjecttypen index="3776">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ext:ConstructieRef index="3735" xlink:href="#constructie-registratieveruimte">RegistratieveRuimte</mim-ext:ConstructieRef>
+                        <mim-ext:ConstructieRef index="3776" xlink:href="#constructie-registratieveruimte">RegistratieveRuimte</mim-ext:ConstructieRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -3484,7 +3535,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   </mim:GeneralisatieObjecttypen>
                </mim:supertypen>
                <mim:attribuutsoorten>
-                  <mim:Attribuutsoort index="3745">
+                  <mim:Attribuutsoort index="3786">
                      <mim:naam>geometrie</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -3495,7 +3546,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:KeuzeRef index="3745" xlink:href="#top10nl-keuze-vlakofmultivlak">VlakOfMultivlak</mim-ref:KeuzeRef>
+                        <mim-ref:KeuzeRef index="3786" xlink:href="#top10nl-keuze-vlakofmultivlak">VlakOfMultivlak</mim-ref:KeuzeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3509,7 +3560,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="3783">
+                  <mim:Attribuutsoort index="3824">
                      <mim:naam>typeRegistratieveRuimte</mim:naam>
                      <mim:alias>type registratieve ruimte</mim:alias>
                      <mim:herkomst>BRT</mim:herkomst>
@@ -3521,7 +3572,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="3783"
+                        <mim-ref:DatatypeRef index="3824"
                                              xlink:href="#top10nl-referentielijst-typeregistratieveruimte">TypeRegistratieveRuimte</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
@@ -3536,7 +3587,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="3822">
+                  <mim:Attribuutsoort index="3863">
                      <mim:naam>naam</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -3547,7 +3598,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="3822" xlink:href="#top10nl-gestructureerddatatype-taalstring">TaalString</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="3863" xlink:href="#top10nl-gestructureerddatatype-taalstring">TaalString</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3561,7 +3612,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="3860">
+                  <mim:Attribuutsoort index="3901">
                      <mim:naam>nummer</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -3572,7 +3623,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="3860">CharacterString</mim:Datatype>
+                        <mim:Datatype index="3901">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3588,7 +3639,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   </mim:Attribuutsoort>
                </mim:attribuutsoorten>
                <mim:relatiesoorten>
-                  <mim:Relatiesoort index="3905">
+                  <mim:Relatiesoort index="3946">
                      <mim:naam>heeftNaam</mim:naam>
                      <mim:alias>heeft naam</mim:alias>
                      <mim:herkomst>SKOS-XL</mim:herkomst>
@@ -3606,7 +3657,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:unidirectioneel>true</mim:unidirectioneel>
                      <mim:aggregatietype>Geen</mim:aggregatietype>
                      <mim:doel>
-                        <mim-ref:ObjecttypeRef index="3905"
+                        <mim-ref:ObjecttypeRef index="3946"
                                                label="heeftNaam"
                                                xlink:href="#top10nl-objecttype-naam">Naam</mim-ref:ObjecttypeRef>
                      </mim:doel>
@@ -3620,7 +3671,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Objecttype>
-            <mim:Objecttype index="3962" id="top10nl-objecttype-relief">
+            <mim:Objecttype index="4003" id="top10nl-objecttype-relief">
                <mim:naam>Relief</mim:naam>
                <mim:herkomst>BRT</mim:herkomst>
                <mim:definitie>
@@ -3632,20 +3683,20 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:indicatieAbstractObject>false</mim:indicatieAbstractObject>
                <mim:supertypen>
-                  <mim:GeneralisatieObjecttypen index="3978">
+                  <mim:GeneralisatieObjecttypen index="4019">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:ObjecttypeRef index="3978" xlink:href="#top10nl-objecttype-topografischobject">TopografischObject</mim-ref:ObjecttypeRef>
+                        <mim-ref:ObjecttypeRef index="4019" xlink:href="#top10nl-objecttype-topografischobject">TopografischObject</mim-ref:ObjecttypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                         <mim-ext:Kenmerk naam="type">GENERALISATIE</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:GeneralisatieObjecttypen>
-                  <mim:GeneralisatieObjecttypen index="3986">
+                  <mim:GeneralisatieObjecttypen index="4027">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ext:ConstructieRef index="3986" xlink:href="#constructie-reeelobject">ReeelObject</mim-ext:ConstructieRef>
+                        <mim-ext:ConstructieRef index="4027" xlink:href="#constructie-reeelobject">ReeelObject</mim-ext:ConstructieRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -3654,7 +3705,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   </mim:GeneralisatieObjecttypen>
                </mim:supertypen>
                <mim:attribuutsoorten>
-                  <mim:Attribuutsoort index="3996">
+                  <mim:Attribuutsoort index="4037">
                      <mim:naam>geometrie</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -3665,7 +3716,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ext:ConstructieRef index="3996" xlink:href="#constructie-gmcurve">GM_Curve</mim-ext:ConstructieRef>
+                        <mim-ext:ConstructieRef index="4037" xlink:href="#constructie-gmcurve">GM_Curve</mim-ext:ConstructieRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3679,7 +3730,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="4057">
+                  <mim:Attribuutsoort index="4098">
                      <mim:naam>typeRelief</mim:naam>
                      <mim:alias>type relief</mim:alias>
                      <mim:herkomst>BRT</mim:herkomst>
@@ -3691,7 +3742,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="4057" xlink:href="#top10nl-referentielijst-typerelief">TypeRelief</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="4098" xlink:href="#top10nl-referentielijst-typerelief">TypeRelief</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3705,7 +3756,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="4099">
+                  <mim:Attribuutsoort index="4140">
                      <mim:naam>hoogteklasse</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -3716,7 +3767,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="4099" xlink:href="#top10nl-referentielijst-hoogteklasserelief">HoogteklasseRelief</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="4140" xlink:href="#top10nl-referentielijst-hoogteklasserelief">HoogteklasseRelief</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>true</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3730,7 +3781,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="4140">
+                  <mim:Attribuutsoort index="4181">
                      <mim:naam>relatieveHoogteligging</mim:naam>
                      <mim:alias>relatieve hoogteligging</mim:alias>
                      <mim:herkomst>BGT</mim:herkomst>
@@ -3747,7 +3798,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      </mim:toelichting>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="4140">Integer</mim:Datatype>
+                        <mim:Datatype index="4181">Integer</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3763,7 +3814,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   </mim:Attribuutsoort>
                </mim:attribuutsoorten>
                <mim:gegevensgroepen><!--https://docs.geostandaarden.nl/mim/mim/#gegevensgroep-->
-                  <mim:Gegevensgroep index="4038">
+                  <mim:Gegevensgroep index="4079">
                      <mim:naam>taludGeometrie</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:definitie>
@@ -3774,7 +3825,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:kardinaliteit>0..1</mim:kardinaliteit>
                      <mim:authentiek><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:authentiek>
                      <mim:gegevensgroeptype>
-                        <mim-ref:GegevensgroeptypeRef index="4038" xlink:href="#top10nl-gegevensgroeptype-taludgeometrie">TaludGeometrie</mim-ref:GegevensgroeptypeRef>
+                        <mim-ref:GegevensgroeptypeRef index="4079" xlink:href="#top10nl-gegevensgroeptype-taludgeometrie">TaludGeometrie</mim-ref:GegevensgroeptypeRef>
                      </mim:gegevensgroeptype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -3785,7 +3836,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Objecttype>
-            <mim:Objecttype index="4221" id="top10nl-objecttype-spoor">
+            <mim:Objecttype index="4262" id="top10nl-objecttype-spoor">
                <mim:naam>Spoor</mim:naam>
                <mim:herkomst>BRT</mim:herkomst>
                <mim:definitie>
@@ -3797,30 +3848,30 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:indicatieAbstractObject>false</mim:indicatieAbstractObject>
                <mim:supertypen>
-                  <mim:GeneralisatieObjecttypen index="4237">
+                  <mim:GeneralisatieObjecttypen index="4278">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:ObjecttypeRef index="4237" xlink:href="#top10nl-objecttype-topografischobject">TopografischObject</mim-ref:ObjecttypeRef>
+                        <mim-ref:ObjecttypeRef index="4278" xlink:href="#top10nl-objecttype-topografischobject">TopografischObject</mim-ref:ObjecttypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                         <mim-ext:Kenmerk naam="type">GENERALISATIE</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:GeneralisatieObjecttypen>
-                  <mim:GeneralisatieObjecttypen index="4245">
+                  <mim:GeneralisatieObjecttypen index="4286">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ext:ConstructieRef index="4245" xlink:href="#constructie-spoorverkeerruimte">Spoorverkeerruimte</mim-ext:ConstructieRef>
+                        <mim-ext:ConstructieRef index="4286" xlink:href="#constructie-spoorverkeerruimte">Spoorverkeerruimte</mim-ext:ConstructieRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                         <mim-ext:Kenmerk naam="type">STATIC</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:GeneralisatieObjecttypen>
-                  <mim:GeneralisatieObjecttypen index="4255">
+                  <mim:GeneralisatieObjecttypen index="4296">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ext:ConstructieRef index="4255" xlink:href="#constructie-verharding">Verharding</mim-ext:ConstructieRef>
+                        <mim-ext:ConstructieRef index="4296" xlink:href="#constructie-verharding">Verharding</mim-ext:ConstructieRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -3829,7 +3880,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   </mim:GeneralisatieObjecttypen>
                </mim:supertypen>
                <mim:attribuutsoorten>
-                  <mim:Attribuutsoort index="4265">
+                  <mim:Attribuutsoort index="4306">
                      <mim:naam>geometrie</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -3840,7 +3891,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:KeuzeRef index="4265" xlink:href="#top10nl-keuze-vlakoflijn">VlakOfLijn</mim-ref:KeuzeRef>
+                        <mim-ref:KeuzeRef index="4306" xlink:href="#top10nl-keuze-vlakoflijn">VlakOfLijn</mim-ref:KeuzeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3854,7 +3905,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="4297">
+                  <mim:Attribuutsoort index="4338">
                      <mim:naam>typeSpoor</mim:naam>
                      <mim:alias>type spoor</mim:alias>
                      <mim:herkomst>BRT</mim:herkomst>
@@ -3866,7 +3917,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="4297" xlink:href="#top10nl-referentielijst-typespoor">TypeSpoor</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="4338" xlink:href="#top10nl-referentielijst-typespoor">TypeSpoor</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3880,7 +3931,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="4339">
+                  <mim:Attribuutsoort index="4380">
                      <mim:naam>aantalSporen</mim:naam>
                      <mim:alias>aantal sporen</mim:alias>
                      <mim:herkomst>BRT</mim:herkomst>
@@ -3897,7 +3948,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      </mim:toelichting>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="4339" xlink:href="#top10nl-referentielijst-aantalsporen">AantalSporen</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="4380" xlink:href="#top10nl-referentielijst-aantalsporen">AantalSporen</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3911,7 +3962,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="4388">
+                  <mim:Attribuutsoort index="4429">
                      <mim:naam>elektrificatie</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -3927,7 +3978,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      </mim:toelichting>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="4388">Boolean</mim:Datatype>
+                        <mim:Datatype index="4429">Boolean</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3941,7 +3992,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="4442">
+                  <mim:Attribuutsoort index="4483">
                      <mim:naam>vervoersfunctie</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -3952,7 +4003,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="4442" xlink:href="#top10nl-referentielijst-vervoersfunctie">Vervoersfunctie</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="4483" xlink:href="#top10nl-referentielijst-vervoersfunctie">Vervoersfunctie</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3966,7 +4017,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="4483">
+                  <mim:Attribuutsoort index="4524">
                      <mim:naam>ligging</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -3977,7 +4028,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="4483" xlink:href="#top10nl-referentielijst-liggingspoor">LiggingSpoor</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="4524" xlink:href="#top10nl-referentielijst-liggingspoor">LiggingSpoor</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -3991,7 +4042,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="4521">
+                  <mim:Attribuutsoort index="4562">
                      <mim:naam>relatieveHoogteligging</mim:naam>
                      <mim:alias>relatieve hoogteligging</mim:alias>
                      <mim:herkomst>BGT</mim:herkomst>
@@ -4008,7 +4059,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      </mim:toelichting>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="4521">Integer</mim:Datatype>
+                        <mim:Datatype index="4562">Integer</mim:Datatype>
                      </mim:type>
                      <mim:patroon>[-9,9]</mim:patroon>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
@@ -4023,7 +4074,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="4585">
+                  <mim:Attribuutsoort index="4626">
                      <mim:naam>status</mim:naam>
                      <mim:herkomst>SOR</mim:herkomst>
                      <mim:definitie>
@@ -4034,7 +4085,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>SOR</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="4585" xlink:href="#top10nl-referentielijst-objectstatus">ObjectStatus</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="4626" xlink:href="#top10nl-referentielijst-objectstatus">ObjectStatus</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4048,7 +4099,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="4623">
+                  <mim:Attribuutsoort index="4664">
                      <mim:naam>brugnaam</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -4059,7 +4110,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="4623">CharacterString</mim:Datatype>
+                        <mim:Datatype index="4664">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4073,7 +4124,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="4667">
+                  <mim:Attribuutsoort index="4708">
                      <mim:naam>tunnelnaam</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -4084,7 +4135,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="4667">CharacterString</mim:Datatype>
+                        <mim:Datatype index="4708">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4202,7 +4253,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Objecttype>
-            <mim:Objecttype index="4731" id="top10nl-objecttype-weg">
+            <mim:Objecttype index="4772" id="top10nl-objecttype-weg">
                <mim:naam>Weg</mim:naam>
                <mim:herkomst>BRT</mim:herkomst>
                <mim:definitie>
@@ -4219,30 +4270,30 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:indicatieAbstractObject>false</mim:indicatieAbstractObject>
                <mim:supertypen>
-                  <mim:GeneralisatieObjecttypen index="4752">
+                  <mim:GeneralisatieObjecttypen index="4793">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ref:ObjecttypeRef index="4752" xlink:href="#top10nl-objecttype-topografischobject">TopografischObject</mim-ref:ObjecttypeRef>
+                        <mim-ref:ObjecttypeRef index="4793" xlink:href="#top10nl-objecttype-topografischobject">TopografischObject</mim-ref:ObjecttypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                         <mim-ext:Kenmerk naam="type">GENERALISATIE</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:GeneralisatieObjecttypen>
-                  <mim:GeneralisatieObjecttypen index="4760">
+                  <mim:GeneralisatieObjecttypen index="4801">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ext:ConstructieRef index="4760" xlink:href="#constructie-verharding">Verharding</mim-ext:ConstructieRef>
+                        <mim-ext:ConstructieRef index="4801" xlink:href="#constructie-verharding">Verharding</mim-ext:ConstructieRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                         <mim-ext:Kenmerk naam="type">STATIC</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:GeneralisatieObjecttypen>
-                  <mim:GeneralisatieObjecttypen index="4770">
+                  <mim:GeneralisatieObjecttypen index="4811">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
                      <mim:supertype>
-                        <mim-ext:ConstructieRef index="4770" xlink:href="#constructie-wegverkeerruimte">Wegverkeerruimte</mim-ext:ConstructieRef>
+                        <mim-ext:ConstructieRef index="4811" xlink:href="#constructie-wegverkeerruimte">Wegverkeerruimte</mim-ext:ConstructieRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -4251,7 +4302,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   </mim:GeneralisatieObjecttypen>
                </mim:supertypen>
                <mim:attribuutsoorten>
-                  <mim:Attribuutsoort index="4780">
+                  <mim:Attribuutsoort index="4821">
                      <mim:naam>geometrie</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -4262,7 +4313,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:KeuzeRef index="4780" xlink:href="#top10nl-keuze-vlakoflijn">VlakOfLijn</mim-ref:KeuzeRef>
+                        <mim-ref:KeuzeRef index="4821" xlink:href="#top10nl-keuze-vlakoflijn">VlakOfLijn</mim-ref:KeuzeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4276,7 +4327,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="4812">
+                  <mim:Attribuutsoort index="4853">
                      <mim:naam>typeWeg</mim:naam>
                      <mim:alias>type weg</mim:alias>
                      <mim:herkomst>BRT</mim:herkomst>
@@ -4288,7 +4339,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="4812" xlink:href="#top10nl-referentielijst-typeweg">TypeWeg</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="4853" xlink:href="#top10nl-referentielijst-typeweg">TypeWeg</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4302,7 +4353,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="4854">
+                  <mim:Attribuutsoort index="4895">
                      <mim:naam>ligging</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -4313,7 +4364,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="4854" xlink:href="#top10nl-referentielijst-liggingweg">LiggingWeg</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="4895" xlink:href="#top10nl-referentielijst-liggingweg">LiggingWeg</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4327,7 +4378,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="4892">
+                  <mim:Attribuutsoort index="4933">
                      <mim:naam>verhardingsbreedteklasse</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -4338,7 +4389,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="4892"
+                        <mim-ref:DatatypeRef index="4933"
                                              xlink:href="#top10nl-referentielijst-verhardingsbreedteklasse">Verhardingsbreedteklasse</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
@@ -4353,7 +4404,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="4930">
+                  <mim:Attribuutsoort index="4971">
                      <mim:naam>verhardingstype</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -4364,7 +4415,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="4930" xlink:href="#top10nl-referentielijst-verhardingstype">Verhardingstype</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="4971" xlink:href="#top10nl-referentielijst-verhardingstype">Verhardingstype</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4378,7 +4429,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="4971">
+                  <mim:Attribuutsoort index="5012">
                      <mim:naam>gescheidenRijbaan</mim:naam>
                      <mim:alias>gescheiden rijbaan</mim:alias>
                      <mim:herkomst>BRT</mim:herkomst>
@@ -4390,7 +4441,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="4971">Boolean</mim:Datatype>
+                        <mim:Datatype index="5012">Boolean</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4404,7 +4455,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5016">
+                  <mim:Attribuutsoort index="5057">
                      <mim:naam>relatieveHoogteligging</mim:naam>
                      <mim:alias>relatieve hoogteligging</mim:alias>
                      <mim:herkomst>BGT</mim:herkomst>
@@ -4421,7 +4472,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      </mim:toelichting>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="5016">Integer</mim:Datatype>
+                        <mim:Datatype index="5057">Integer</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4435,7 +4486,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5077">
+                  <mim:Attribuutsoort index="5118">
                      <mim:naam>status</mim:naam>
                      <mim:herkomst>SOR</mim:herkomst>
                      <mim:definitie>
@@ -4446,7 +4497,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>SOR</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:DatatypeRef index="5077" xlink:href="#top10nl-referentielijst-objectstatus">ObjectStatus</mim-ref:DatatypeRef>
+                        <mim-ref:DatatypeRef index="5118" xlink:href="#top10nl-referentielijst-objectstatus">ObjectStatus</mim-ref:DatatypeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4460,7 +4511,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5115">
+                  <mim:Attribuutsoort index="5156">
                      <mim:naam>naam</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -4471,7 +4522,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="5115">CharacterString</mim:Datatype>
+                        <mim:Datatype index="5156">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4485,7 +4536,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5159">
+                  <mim:Attribuutsoort index="5200">
                      <mim:naam>aWegnummer</mim:naam>
                      <mim:alias>A-wegnummer</mim:alias>
                      <mim:herkomst>BRT</mim:herkomst>
@@ -4497,7 +4548,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="5159">CharacterString</mim:Datatype>
+                        <mim:Datatype index="5200">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4511,7 +4562,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5204">
+                  <mim:Attribuutsoort index="5245">
                      <mim:naam>nWegnummer</mim:naam>
                      <mim:alias>N-wegnummer</mim:alias>
                      <mim:herkomst>BRT</mim:herkomst>
@@ -4523,7 +4574,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="5204">CharacterString</mim:Datatype>
+                        <mim:Datatype index="5245">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4537,7 +4588,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5249">
+                  <mim:Attribuutsoort index="5290">
                      <mim:naam>eWegnummer</mim:naam>
                      <mim:alias>E-wegnummer</mim:alias>
                      <mim:herkomst>BRT</mim:herkomst>
@@ -4549,7 +4600,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="5249">CharacterString</mim:Datatype>
+                        <mim:Datatype index="5290">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4563,7 +4614,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5294">
+                  <mim:Attribuutsoort index="5335">
                      <mim:naam>sWegnummer</mim:naam>
                      <mim:alias>S-wegnummer</mim:alias>
                      <mim:herkomst>BRT</mim:herkomst>
@@ -4575,7 +4626,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="5294">CharacterString</mim:Datatype>
+                        <mim:Datatype index="5335">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4589,7 +4640,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5339">
+                  <mim:Attribuutsoort index="5380">
                      <mim:naam>afritnummer</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -4600,7 +4651,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="5339">CharacterString</mim:Datatype>
+                        <mim:Datatype index="5380">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4614,7 +4665,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5383">
+                  <mim:Attribuutsoort index="5424">
                      <mim:naam>afritnaam</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -4625,7 +4676,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="5383">CharacterString</mim:Datatype>
+                        <mim:Datatype index="5424">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4639,7 +4690,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5427">
+                  <mim:Attribuutsoort index="5468">
                      <mim:naam>knooppuntnaam</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -4650,7 +4701,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="5427">CharacterString</mim:Datatype>
+                        <mim:Datatype index="5468">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4664,7 +4715,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5471">
+                  <mim:Attribuutsoort index="5512">
                      <mim:naam>brugnaam</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -4675,7 +4726,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="5471">CharacterString</mim:Datatype>
+                        <mim:Datatype index="5512">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4689,7 +4740,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="5515">
+                  <mim:Attribuutsoort index="5556">
                      <mim:naam>tunnelnaam</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -4700,7 +4751,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="5515">CharacterString</mim:Datatype>
+                        <mim:Datatype index="5556">CharacterString</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4716,7 +4767,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   </mim:Attribuutsoort>
                </mim:attribuutsoorten>
                <mim:relatiesoorten>
-                  <mim:Relatiesoort index="5560">
+                  <mim:Relatiesoort index="5601">
                      <mim:naam>heeftNaam</mim:naam>
                      <mim:alias>heeft naam</mim:alias>
                      <mim:herkomst>SKOS-XL</mim:herkomst>
@@ -4734,7 +4785,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:unidirectioneel>true</mim:unidirectioneel>
                      <mim:aggregatietype>Geen</mim:aggregatietype>
                      <mim:doel>
-                        <mim-ref:ObjecttypeRef index="5560"
+                        <mim-ref:ObjecttypeRef index="5601"
                                                label="heeftNaam"
                                                xlink:href="#top10nl-objecttype-naam">Naam</mim-ref:ObjecttypeRef>
                      </mim:doel>
@@ -4750,7 +4801,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
             </mim:Objecttype>
          </mim:objecttypen>
          <mim:gegevensgroeptypen><!--https://docs.geostandaarden.nl/mim/mim/#gegevensgroeptype-->
-            <mim:Gegevensgroeptype index="6056" id="top10nl-gegevensgroeptype-registratie">
+            <mim:Gegevensgroeptype index="6097" id="top10nl-gegevensgroeptype-registratie">
                <mim:naam>Registratie</mim:naam>
                <mim:herkomst>NEN3610</mim:herkomst>
                <mim:definitie>
@@ -4766,7 +4817,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                </mim:toelichting>
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:attribuutsoorten>
-                  <mim:Attribuutsoort index="6077">
+                  <mim:Attribuutsoort index="6118">
                      <mim:naam>beginRegistratie</mim:naam>
                      <mim:alias>technisch tijdstip ontstaan</mim:alias>
                      <mim:herkomst>NEN3610-2022</mim:herkomst>
@@ -4778,7 +4829,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="6077">DateTime</mim:Datatype>
+                        <mim:Datatype index="6118">DateTime</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4795,7 +4846,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   </mim:Attribuutsoort>
                </mim:attribuutsoorten>
                <mim:relatiesoorten>
-                  <mim:Relatiesoort index="6123">
+                  <mim:Relatiesoort index="6164">
                      <mim:naam>isGebaseerdOp</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -4816,7 +4867,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:unidirectioneel>true</mim:unidirectioneel>
                      <mim:aggregatietype>Geen</mim:aggregatietype>
                      <mim:doel>
-                        <mim-ref:ObjecttypeRef index="6123"
+                        <mim-ref:ObjecttypeRef index="6164"
                                                label="isGebaseerdOp"
                                                xlink:href="#top10nl-objecttype-databron">Databron</mim-ref:ObjecttypeRef>
                      </mim:doel>
@@ -4830,21 +4881,21 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Gegevensgroeptype>
-            <mim:Gegevensgroeptype index="6334" id="top10nl-gegevensgroeptype-taludgeometrie">
+            <mim:Gegevensgroeptype index="6404" id="top10nl-gegevensgroeptype-taludgeometrie">
                <mim:naam>TaludGeometrie</mim:naam>
                <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                <mim:definitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:definitie>
                <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:attribuutsoorten>
-                  <mim:Attribuutsoort index="6345">
+                  <mim:Attribuutsoort index="6415">
                      <mim:naam>hogeZijde</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:definitie>
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ext:ConstructieRef index="6345" xlink:href="#constructie-gmcurve">GM_Curve</mim-ext:ConstructieRef>
+                        <mim-ext:ConstructieRef index="6415" xlink:href="#constructie-gmcurve">GM_Curve</mim-ext:ConstructieRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4858,14 +4909,14 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="6371">
+                  <mim:Attribuutsoort index="6441">
                      <mim:naam>lageZijde</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:definitie>
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ext:ConstructieRef index="6371" xlink:href="#constructie-gmcurve">GM_Curve</mim-ext:ConstructieRef>
+                        <mim-ext:ConstructieRef index="6441" xlink:href="#constructie-gmcurve">GM_Curve</mim-ext:ConstructieRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -4886,79 +4937,79 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
             </mim:Gegevensgroeptype>
          </mim:gegevensgroeptypen>
          <mim:keuzen>
-            <mim:Keuze index="7685" id="top10nl-keuze-lijnofpunt">
+            <mim:Keuze index="7755" id="top10nl-keuze-lijnofpunt">
                <mim:naam>LijnOfPunt</mim:naam>
                <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:keuzeDatatypen>
-                  <mim-ext:ConstructieRef index="7697" label="lijn" xlink:href="#constructie-gmcurve">GM_Curve</mim-ext:ConstructieRef>
-                  <mim-ext:ConstructieRef index="7725" label="punt" xlink:href="#constructie-gmpoint">GM_Point</mim-ext:ConstructieRef>
+                  <mim-ext:ConstructieRef index="7767" label="lijn" xlink:href="#constructie-gmcurve">GM_Curve</mim-ext:ConstructieRef>
+                  <mim-ext:ConstructieRef index="7795" label="punt" xlink:href="#constructie-gmpoint">GM_Point</mim-ext:ConstructieRef>
                </mim:keuzeDatatypen>
                <mim-ext:kenmerken>
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Keuze>
-            <mim:Keuze index="7392" id="top10nl-keuze-vlaklijnofpunt">
+            <mim:Keuze index="7462" id="top10nl-keuze-vlaklijnofpunt">
                <mim:naam>VlakLijnOfPunt</mim:naam>
                <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:keuzeDatatypen>
-                  <mim-ext:ConstructieRef index="7404" label="vlak" xlink:href="#constructie-gmsurface">GM_Surface</mim-ext:ConstructieRef>
-                  <mim-ext:ConstructieRef index="7432" label="lijn" xlink:href="#constructie-gmcurve">GM_Curve</mim-ext:ConstructieRef>
-                  <mim-ext:ConstructieRef index="7460" label="punt" xlink:href="#constructie-gmpoint">GM_Point</mim-ext:ConstructieRef>
+                  <mim-ext:ConstructieRef index="7474" label="vlak" xlink:href="#constructie-gmsurface">GM_Surface</mim-ext:ConstructieRef>
+                  <mim-ext:ConstructieRef index="7502" label="lijn" xlink:href="#constructie-gmcurve">GM_Curve</mim-ext:ConstructieRef>
+                  <mim-ext:ConstructieRef index="7530" label="punt" xlink:href="#constructie-gmpoint">GM_Point</mim-ext:ConstructieRef>
                </mim:keuzeDatatypen>
                <mim-ext:kenmerken>
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Keuze>
-            <mim:Keuze index="7578" id="top10nl-keuze-vlakmultivlakofpunt">
+            <mim:Keuze index="7648" id="top10nl-keuze-vlakmultivlakofpunt">
                <mim:naam>VlakMultivlakOfPunt</mim:naam>
                <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:keuzeDatatypen>
-                  <mim-ext:ConstructieRef index="7590" label="vlak" xlink:href="#constructie-gmsurface">GM_Surface</mim-ext:ConstructieRef>
-                  <mim-ext:ConstructieRef index="7618"
+                  <mim-ext:ConstructieRef index="7660" label="vlak" xlink:href="#constructie-gmsurface">GM_Surface</mim-ext:ConstructieRef>
+                  <mim-ext:ConstructieRef index="7688"
                                           label="multivlak"
                                           xlink:href="#constructie-gmmultisurface">GM_MultiSurface</mim-ext:ConstructieRef>
-                  <mim-ext:ConstructieRef index="7646" label="punt" xlink:href="#constructie-gmpoint">GM_Point</mim-ext:ConstructieRef>
+                  <mim-ext:ConstructieRef index="7716" label="punt" xlink:href="#constructie-gmpoint">GM_Point</mim-ext:ConstructieRef>
                </mim:keuzeDatatypen>
                <mim-ext:kenmerken>
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Keuze>
-            <mim:Keuze index="7313" id="top10nl-keuze-vlakoflijn">
+            <mim:Keuze index="7383" id="top10nl-keuze-vlakoflijn">
                <mim:naam>VlakOfLijn</mim:naam>
                <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:keuzeDatatypen>
-                  <mim-ext:ConstructieRef index="7325" label="vlak" xlink:href="#constructie-gmsurface">GM_Surface</mim-ext:ConstructieRef>
-                  <mim-ext:ConstructieRef index="7353" label="lijn" xlink:href="#constructie-gmcurve">GM_Curve</mim-ext:ConstructieRef>
+                  <mim-ext:ConstructieRef index="7395" label="vlak" xlink:href="#constructie-gmsurface">GM_Surface</mim-ext:ConstructieRef>
+                  <mim-ext:ConstructieRef index="7423" label="lijn" xlink:href="#constructie-gmcurve">GM_Curve</mim-ext:ConstructieRef>
                </mim:keuzeDatatypen>
                <mim-ext:kenmerken>
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Keuze>
-            <mim:Keuze index="7499" id="top10nl-keuze-vlakofmultivlak">
+            <mim:Keuze index="7569" id="top10nl-keuze-vlakofmultivlak">
                <mim:naam>VlakOfMultivlak</mim:naam>
                <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:keuzeDatatypen>
-                  <mim-ext:ConstructieRef index="7511"
+                  <mim-ext:ConstructieRef index="7581"
                                           label="multivlak"
                                           xlink:href="#constructie-gmmultisurface">GM_MultiSurface</mim-ext:ConstructieRef>
-                  <mim-ext:ConstructieRef index="7539" label="vlak" xlink:href="#constructie-gmsurface">GM_Surface</mim-ext:ConstructieRef>
+                  <mim-ext:ConstructieRef index="7609" label="vlak" xlink:href="#constructie-gmsurface">GM_Surface</mim-ext:ConstructieRef>
                </mim:keuzeDatatypen>
                <mim-ext:kenmerken>
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Keuze>
-            <mim:Keuze index="7764" id="top10nl-keuze-vlakofpunt">
+            <mim:Keuze index="7834" id="top10nl-keuze-vlakofpunt">
                <mim:naam>VlakOfPunt</mim:naam>
                <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:keuzeDatatypen>
-                  <mim-ext:ConstructieRef index="7776" label="vlak" xlink:href="#constructie-gmsurface">GM_Surface</mim-ext:ConstructieRef>
-                  <mim-ext:ConstructieRef index="7804" label="punt" xlink:href="#constructie-gmpoint">GM_Point</mim-ext:ConstructieRef>
+                  <mim-ext:ConstructieRef index="7846" label="vlak" xlink:href="#constructie-gmsurface">GM_Surface</mim-ext:ConstructieRef>
+                  <mim-ext:ConstructieRef index="7874" label="punt" xlink:href="#constructie-gmpoint">GM_Point</mim-ext:ConstructieRef>
                </mim:keuzeDatatypen>
                <mim-ext:kenmerken>
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
@@ -4966,13 +5017,13 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
             </mim:Keuze>
          </mim:keuzen>
          <mim-ext:kenmerken>
-            <mim-ext:Kenmerk naam="release">20250901</mim-ext:Kenmerk>
+            <mim-ext:Kenmerk naam="release">20251118</mim-ext:Kenmerk>
             <mim-ext:Kenmerk naam="version">0.4</mim-ext:Kenmerk>
             <mim-ext:Kenmerk naam="namespace">http://developer.kadaster.nl/schemas/brt/top10nl/topografie</mim-ext:Kenmerk>
          </mim-ext:kenmerken>
       </mim:Domein>
       <!--https://docs.geostandaarden.nl/mim/mim/#extern-->
-      <mim:Extern index="8524" id="OUTSIDE-3">
+      <mim:Extern index="8594" id="OUTSIDE-3">
          <mim:naam>GMLPROFILE</mim:naam>
          <mim:herkomst>Kadaster</mim:herkomst>
          <mim:definitie>ISO19107 Geographic information – Spatial schema</mim:definitie>
@@ -4980,28 +5031,28 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
          <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
          <mim:locatie>X</mim:locatie>
          <mim-ext:constructies>
-            <mim-ext:Constructie index="8553" id="constructie-gmcurve">
+            <mim-ext:Constructie index="8623" id="constructie-gmcurve">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>GM_Curve</mim:naam>
                <mim-ext:kenmerken>
                   <mim-ext:Kenmerk naam="oasnaam">linestringGeoJSON</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="8571" id="constructie-gmmultisurface">
+            <mim-ext:Constructie index="8641" id="constructie-gmmultisurface">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>GM_MultiSurface</mim:naam>
                <mim-ext:kenmerken>
                   <mim-ext:Kenmerk naam="oasnaam">multipolygonGeoJSON</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="8565" id="constructie-gmpoint">
+            <mim-ext:Constructie index="8635" id="constructie-gmpoint">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>GM_Point</mim:naam>
                <mim-ext:kenmerken>
                   <mim-ext:Kenmerk naam="oasnaam">pointGeoJSON</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="8559" id="constructie-gmsurface">
+            <mim-ext:Constructie index="8629" id="constructie-gmsurface">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>GM_Surface</mim:naam>
                <mim-ext:kenmerken>
@@ -5015,7 +5066,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
             <mim-ext:Kenmerk naam="namespace">http://www.opengis.net/gml/3.2</mim-ext:Kenmerk>
          </mim-ext:kenmerken>
       </mim:Extern>
-      <mim:Extern index="8584" id="OUTSIDE-4">
+      <mim:Extern index="8654" id="OUTSIDE-4">
          <mim:naam>GMLSF</mim:naam>
          <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
          <mim:definitie>GML Simple Feature Profile</mim:definitie>
@@ -5028,7 +5079,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
             <mim-ext:Kenmerk naam="namespace">http://www.opengis.net/gmlsf/2.0</mim-ext:Kenmerk>
          </mim-ext:kenmerken>
       </mim:Extern>
-      <mim:Extern index="8319" id="OUTSIDE-1">
+      <mim:Extern index="8389" id="OUTSIDE-1">
          <mim:naam>NEN3610-2022</mim:naam>
          <mim:herkomst>Geonovum</mim:herkomst>
          <mim:definitie>Constructies opgenomen in NEN3610:2022</mim:definitie>
@@ -5036,63 +5087,63 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
          <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
          <mim:locatie>https://www.geonovum.nl/geo-standaarden/nen-3610-basismodel-voor-informatiemodellen</mim:locatie>
          <mim-ext:constructies>
-            <mim-ext:Constructie index="8354" id="constructie-begroeiing">
+            <mim-ext:Constructie index="8424" id="constructie-begroeiing">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>Begroeiing</mim:naam>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="8410" id="constructie-bodem">
+            <mim-ext:Constructie index="8480" id="constructie-bodem">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>Bodem</mim:naam>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="8347" id="constructie-constructie">
+            <mim-ext:Constructie index="8417" id="constructie-constructie">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>Constructie</mim:naam>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="8431" id="constructie-functioneleruimte">
+            <mim-ext:Constructie index="8501" id="constructie-functioneleruimte">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>FunctioneleRuimte</mim:naam>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="8445" id="constructie-gebouw">
+            <mim-ext:Constructie index="8515" id="constructie-gebouw">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>Gebouw</mim:naam>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="8375" id="constructie-geografischeruimte">
+            <mim-ext:Constructie index="8445" id="constructie-geografischeruimte">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>GeografischeRuimte</mim:naam>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="8424" id="constructie-kunstwerk">
+            <mim-ext:Constructie index="8494" id="constructie-kunstwerk">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>Kunstwerk</mim:naam>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="8417" id="constructie-leiding">
+            <mim-ext:Constructie index="8487" id="constructie-leiding">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>Leiding</mim:naam>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="8382" id="constructie-oppervlaktewater">
+            <mim-ext:Constructie index="8452" id="constructie-oppervlaktewater">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>Oppervlaktewater</mim:naam>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="8361" id="constructie-reeelobject">
+            <mim-ext:Constructie index="8431" id="constructie-reeelobject">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>ReeelObject</mim:naam>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="8368" id="constructie-registratieveruimte">
+            <mim-ext:Constructie index="8438" id="constructie-registratieveruimte">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>RegistratieveRuimte</mim:naam>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="8389" id="constructie-spoorverkeerruimte">
+            <mim-ext:Constructie index="8459" id="constructie-spoorverkeerruimte">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>Spoorverkeerruimte</mim:naam>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="8396" id="constructie-verharding">
+            <mim-ext:Constructie index="8466" id="constructie-verharding">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>Verharding</mim:naam>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="8403" id="constructie-virtueleruimte">
+            <mim-ext:Constructie index="8473" id="constructie-virtueleruimte">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>VirtueleRuimte</mim:naam>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="8438" id="constructie-wegverkeerruimte">
+            <mim-ext:Constructie index="8508" id="constructie-wegverkeerruimte">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>Wegverkeerruimte</mim:naam>
             </mim-ext:Constructie>
@@ -5108,7 +5159,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
       <mim-ext:Kenmerk naam="Imvertor">model</mim-ext:Kenmerk>
       <mim-ext:Kenmerk naam="Is afgeleid">Zie package</mim-ext:Kenmerk>
       <mim-ext:Kenmerk naam="Niveau">specifiek</mim-ext:Kenmerk>
-      <mim-ext:Kenmerk naam="Release">20250901</mim-ext:Kenmerk>
+      <mim-ext:Kenmerk naam="Release">20251118</mim-ext:Kenmerk>
       <mim-ext:Kenmerk naam="version">2.0.0</mim-ext:Kenmerk>
       <mim-ext:Kenmerk naam="namespace">http://developer.kadaster.nl/schemas/brt/top10nl</mim-ext:Kenmerk>
       <mim-ext:Kenmerk naam="imvertor-version">4.3.0</mim-ext:Kenmerk>
