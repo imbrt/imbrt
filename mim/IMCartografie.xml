@@ -2,7 +2,7 @@
 <!--
 =============================================================================================
 Dit bestand bevat een XML serialisatie van een informatiemodel dat is gemodelleerd volgens de 
-"Metamodel Informatie Modellering (MIM)" standaard versie 1.1.
+"Metamodel Informatie Modellering (MIM)" standaard versie 1.2.
 Zie: https://docs.geostandaarden.nl/mim/mim/ voor de laatste versie van de standaard.
 
 In deze serialisatie komen <mim-ref:xRef> elementen voor, zoals <mim-ref:ObjecttypeRef>. 
@@ -17,19 +17,25 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
 -->
 <mim:Informatiemodel xmlns:cs="http://www.imvertor.org/metamodels/conceptualschemas/model/v20181210"
                      xmlns:dlogger="http://www.armatiek.nl/functions/dlogger-proxy"
-                     xmlns:mim="http://www.geostandaarden.nl/mim/mim-core/1.1"
+                     xmlns:mim="http://www.geostandaarden.nl/mim/mim-core/1.2"
                      xmlns:mim-ext="http://www.geostandaarden.nl/mim/mim-ext/1.0"
                      xmlns:mim-ref="http://www.geostandaarden.nl/mim/mim-ref/1.0"
                      xmlns:xhtml="http://www.w3.org/1999/xhtml"
                      xmlns:xlink="http://www.w3.org/1999/xlink"
                      xmlns:xs="http://www.w3.org/2001/XMLSchema"
                      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                     xsi:schemaLocation="http://www.geostandaarden.nl/mim/mim-core/1.1 xsd/1.1/MIMFORMAT_Mim_relatiesoort.xsd"><!--https://docs.geostandaarden.nl/mim/mim/#metagegeven-naam-->
+                     xsi:schemaLocation="http://www.geostandaarden.nl/mim/mim-core/1.2 xsd/1.2/MIMFORMAT_Mim_relatiesoort.xsd"
+                     id="imcartografie-d11965e2"><!--https://docs.geostandaarden.nl/mim/mim/#metagegeven-naam-->
    <mim:naam>IMCartografie</mim:naam>
    <!--https://docs.geostandaarden.nl/mim/mim/#metagegeven-herkomst-->
-   <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
+   <mim:herkomst>Kadaster</mim:herkomst>
    <!--https://docs.geostandaarden.nl/mim/mim/#metagegeven-definitie-->
-   <mim:definitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:definitie>
+   <mim:definitie>
+      <xhtml:body>
+         <xhtml:p>Dit beschrijft het datamodel van de kleinschalige BRT-producten: TOP25NL, TOP50NL, TOP100NL, TOP250NL, TOP500NL, TOP1000NL en de BRT-Achtergrondkaart.
+Deze producten hebben eenzelfde model, maar wel een eigen detailniveau.</xhtml:p>
+      </xhtml:body>
+   </mim:definitie>
    <!--https://docs.geostandaarden.nl/mim/mim/#metagegeven-herkomst-definitie-->
    <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
    <!--https://docs.geostandaarden.nl/mim/mim/#metagegeven-datum-opname-->
@@ -39,18 +45,19 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
    <!--https://docs.geostandaarden.nl/mim/mim/#metagegeven-informatiedomein-->
    <mim:informatiedomein>cartografie</mim:informatiedomein>
    <!--https://docs.geostandaarden.nl/mim/mim/#metagegeven-relatiemodelleringstype-->
-   <mim:relatiemodelleringtype>Relatiesoort leidend</mim:relatiemodelleringtype>
+   <mim:relatiemodelleringstype>Relatiesoort leidend</mim:relatiemodelleringstype>
    <!--https://docs.geostandaarden.nl/mim/mim/#metagegeven-mim-versie-->
-   <mim:MIMVersie>1.1</mim:MIMVersie>
+   <mim:MIMVersie>1.2</mim:MIMVersie>
    <mim:packages><!--https://docs.geostandaarden.nl/mim/mim/#domein-->
-      <mim:Domein index="124" id="cartografie-domein-cartografie">
+      <mim:Domein index="124" id="imcartografie-cartografie-d11965e28">
          <mim:naam>Cartografie</mim:naam>
          <mim:herkomst>Kadaster</mim:herkomst>
          <mim:definitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:definitie>
          <mim:herkomstDefinitie>BRT</mim:herkomstDefinitie>
          <mim:datumOpname>10-04-2025</mim:datumOpname>
          <mim:objecttypen><!--https://docs.geostandaarden.nl/mim/mim/#objecttype-->
-            <mim:Objecttype index="151" id="cartografie-objecttype-cartografischobject">
+            <mim:Objecttype index="151"
+                            id="imcartografie-cartografie-cartografischobject-d11965e40">
                <mim:naam>CartografischObject</mim:naam>
                <!--https://docs.geostandaarden.nl/mim/mim/#metagegeven-alias-->
                <mim:alias>Cartografisch object</mim:alias>
@@ -67,7 +74,8 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                <!--https://docs.geostandaarden.nl/mim/mim/#metagegeven-indicatie-abstract-object-->
                <mim:indicatieAbstractObject>true</mim:indicatieAbstractObject>
                <mim:attribuutsoorten><!--https://docs.geostandaarden.nl/mim/mim/#attribuutsoort-->
-                  <mim:Attribuutsoort index="168">
+                  <mim:Attribuutsoort index="168"
+                                      id="imcartografie-cartografie-cartografischobject-objecttype-d11965e64">
                      <mim:naam>objecttype</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -103,7 +111,8 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="218">
+                  <mim:Attribuutsoort index="218"
+                                      id="imcartografie-cartografie-cartografischobject-tijdstipregistratie-d11965e108">
                      <mim:naam>tijdstipRegistratie</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -129,7 +138,8 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="265">
+                  <mim:Attribuutsoort index="265"
+                                      id="imcartografie-cartografie-cartografischobject-visualisatiecode-d11965e150">
                      <mim:naam>visualisatiecode</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -154,7 +164,8 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="309">
+                  <mim:Attribuutsoort index="309"
+                                      id="imcartografie-cartografie-cartografischobject-beschrijving-d11965e190">
                      <mim:naam>beschrijving</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -179,7 +190,8 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="353">
+                  <mim:Attribuutsoort index="353"
+                                      id="imcartografie-cartografie-cartografischobject-symboolurl-d11965e230">
                      <mim:naam>symboolUrl</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -209,7 +221,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Objecttype>
-            <mim:Objecttype index="420" id="cartografie-objecttype-kaarttekst">
+            <mim:Objecttype index="420" id="imcartografie-cartografie-kaarttekst-d11965e273">
                <mim:naam>Kaarttekst</mim:naam>
                <mim:herkomst>BRT</mim:herkomst>
                <mim:definitie>
@@ -222,10 +234,13 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:indicatieAbstractObject>false</mim:indicatieAbstractObject>
                <mim:supertypen>
-                  <mim:GeneralisatieObjecttypen index="436">
+                  <mim:GeneralisatieObjecttypen index="436" id="imcartografie-cartografie-kaarttekst-d11965e295">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
+                     <!--https://docs.geostandaarden.nl/mim/vv-st-mim-20240408/#metagegeven-mixin-->
+                     <mim:mixin>false</mim:mixin>
                      <mim:supertype>
-                        <mim-ref:ObjecttypeRef index="436" xlink:href="#cartografie-objecttype-cartografischobject">CartografischObject</mim-ref:ObjecttypeRef>
+                        <mim-ref:ObjecttypeRef index="436"
+                                               xlink:href="#imcartografie-cartografie-cartografischobject-d11965e40">CartografischObject</mim-ref:ObjecttypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -234,7 +249,8 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   </mim:GeneralisatieObjecttypen>
                </mim:supertypen>
                <mim:attribuutsoorten>
-                  <mim:Attribuutsoort index="444">
+                  <mim:Attribuutsoort index="444"
+                                      id="imcartografie-cartografie-kaarttekst-geometrie-d11965e309">
                      <mim:naam>geometrie</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -246,7 +262,8 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:toelichting>De geometrie is een punt of lijn.</mim:toelichting>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ref:KeuzeRef index="444" xlink:href="#cartografie-keuze-lijnofpunt">LijnOfPunt</mim-ref:KeuzeRef>
+                        <mim-ref:KeuzeRef index="444"
+                                          xlink:href="#imcartografie-cartografie-lijnofpunt-d11965e842">LijnOfPunt</mim-ref:KeuzeRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -260,7 +277,8 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="491">
+                  <mim:Attribuutsoort index="491"
+                                      id="imcartografie-cartografie-kaarttekst-tekstsoort-d11965e351">
                      <mim:naam>tekstsoort</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -286,7 +304,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="538">
+                  <mim:Attribuutsoort index="538" id="imcartografie-cartografie-kaarttekst-tekst-d11965e393">
                      <mim:naam>tekst</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -311,7 +329,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="582">
+                  <mim:Attribuutsoort index="582" id="imcartografie-cartografie-kaarttekst-klasse-d11965e433">
                      <mim:naam>klasse</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -337,7 +355,8 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="629">
+                  <mim:Attribuutsoort index="629"
+                                      id="imcartografie-cartografie-kaarttekst-prioriteit-d11965e475">
                      <mim:naam>prioriteit</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -362,7 +381,8 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="670">
+                  <mim:Attribuutsoort index="670"
+                                      id="imcartografie-cartografie-kaarttekst-rotatie-d11965e515">
                      <mim:naam>rotatie</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -373,7 +393,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="670">CharacterString</mim:Datatype>
+                        <mim:Datatype index="670">Integer</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -392,7 +412,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Objecttype>
-            <mim:Objecttype index="737" id="cartografie-objecttype-lijnobject">
+            <mim:Objecttype index="737" id="imcartografie-cartografie-lijnobject-d11965e558">
                <mim:naam>Lijnobject</mim:naam>
                <mim:herkomst>BRT</mim:herkomst>
                <mim:definitie>
@@ -405,10 +425,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:indicatieAbstractObject>false</mim:indicatieAbstractObject>
                <mim:supertypen>
-                  <mim:GeneralisatieObjecttypen index="753">
+                  <mim:GeneralisatieObjecttypen index="753" id="imcartografie-cartografie-lijnobject-d11965e580">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
+                     <mim:mixin>false</mim:mixin>
                      <mim:supertype>
-                        <mim-ref:ObjecttypeRef index="753" xlink:href="#cartografie-objecttype-cartografischobject">CartografischObject</mim-ref:ObjecttypeRef>
+                        <mim-ref:ObjecttypeRef index="753"
+                                               xlink:href="#imcartografie-cartografie-cartografischobject-d11965e40">CartografischObject</mim-ref:ObjecttypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -417,7 +439,8 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   </mim:GeneralisatieObjecttypen>
                </mim:supertypen>
                <mim:attribuutsoorten>
-                  <mim:Attribuutsoort index="761">
+                  <mim:Attribuutsoort index="761"
+                                      id="imcartografie-cartografie-lijnobject-geometrie-d11965e594">
                      <mim:naam>geometrie</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -429,7 +452,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:toelichting>De geometrie is een lijn.</mim:toelichting>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ext:ConstructieRef index="761" xlink:href="#constructie-gmcurve">GM_Curve</mim-ext:ConstructieRef>
+                        <mim-ext:ConstructieRef index="761" xlink:href="#imcartografie-gmlprofile-gmcurve-d11965e878">GM_Curve</mim-ext:ConstructieRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -448,7 +471,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Objecttype>
-            <mim:Objecttype index="835" id="cartografie-objecttype-symbool">
+            <mim:Objecttype index="835" id="imcartografie-cartografie-symbool-d11965e639">
                <mim:naam>Symbool</mim:naam>
                <mim:herkomst>BRT</mim:herkomst>
                <mim:definitie>
@@ -461,10 +484,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:indicatieAbstractObject>false</mim:indicatieAbstractObject>
                <mim:supertypen>
-                  <mim:GeneralisatieObjecttypen index="851">
+                  <mim:GeneralisatieObjecttypen index="851" id="imcartografie-cartografie-symbool-d11965e661">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
+                     <mim:mixin>false</mim:mixin>
                      <mim:supertype>
-                        <mim-ref:ObjecttypeRef index="851" xlink:href="#cartografie-objecttype-cartografischobject">CartografischObject</mim-ref:ObjecttypeRef>
+                        <mim-ref:ObjecttypeRef index="851"
+                                               xlink:href="#imcartografie-cartografie-cartografischobject-d11965e40">CartografischObject</mim-ref:ObjecttypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -473,7 +498,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   </mim:GeneralisatieObjecttypen>
                </mim:supertypen>
                <mim:attribuutsoorten>
-                  <mim:Attribuutsoort index="859">
+                  <mim:Attribuutsoort index="859" id="imcartografie-cartografie-symbool-geometrie-d11965e675">
                      <mim:naam>geometrie</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -485,7 +510,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:toelichting>De geometrie is een punt.</mim:toelichting>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ext:ConstructieRef index="859" xlink:href="#constructie-gmpoint">GM_Point</mim-ext:ConstructieRef>
+                        <mim-ext:ConstructieRef index="859" xlink:href="#imcartografie-gmlprofile-gmpoint-d11965e886">GM_Point</mim-ext:ConstructieRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -499,7 +524,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
                      </mim-ext:kenmerken>
                   </mim:Attribuutsoort>
-                  <mim:Attribuutsoort index="910">
+                  <mim:Attribuutsoort index="910" id="imcartografie-cartografie-symbool-rotatie-d11965e717">
                      <mim:naam>rotatie</mim:naam>
                      <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                      <mim:definitie>
@@ -510,7 +535,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim:Datatype index="910">CharacterString</mim:Datatype>
+                        <mim:Datatype index="910">Integer</mim:Datatype>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -529,7 +554,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim:Objecttype>
-            <mim:Objecttype index="977" id="cartografie-objecttype-vlakobject">
+            <mim:Objecttype index="977" id="imcartografie-cartografie-vlakobject-d11965e760">
                <mim:naam>Vlakobject</mim:naam>
                <mim:herkomst>BRT</mim:herkomst>
                <mim:definitie>
@@ -542,10 +567,12 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:indicatieAbstractObject>false</mim:indicatieAbstractObject>
                <mim:supertypen>
-                  <mim:GeneralisatieObjecttypen index="993">
+                  <mim:GeneralisatieObjecttypen index="993" id="imcartografie-cartografie-vlakobject-d11965e782">
                      <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
+                     <mim:mixin>false</mim:mixin>
                      <mim:supertype>
-                        <mim-ref:ObjecttypeRef index="993" xlink:href="#cartografie-objecttype-cartografischobject">CartografischObject</mim-ref:ObjecttypeRef>
+                        <mim-ref:ObjecttypeRef index="993"
+                                               xlink:href="#imcartografie-cartografie-cartografischobject-d11965e40">CartografischObject</mim-ref:ObjecttypeRef>
                      </mim:supertype>
                      <mim-ext:kenmerken>
                         <mim-ext:Kenmerk naam="positie">100</mim-ext:Kenmerk>
@@ -554,7 +581,8 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                   </mim:GeneralisatieObjecttypen>
                </mim:supertypen>
                <mim:attribuutsoorten>
-                  <mim:Attribuutsoort index="1001">
+                  <mim:Attribuutsoort index="1001"
+                                      id="imcartografie-cartografie-vlakobject-geometrie-d11965e796">
                      <mim:naam>geometrie</mim:naam>
                      <mim:herkomst>BRT</mim:herkomst>
                      <mim:definitie>
@@ -566,7 +594,8 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
                      <mim:toelichting>De geometrie is een vlak.</mim:toelichting>
                      <mim:datumOpname>10-04-2025</mim:datumOpname>
                      <mim:type>
-                        <mim-ext:ConstructieRef index="1001" xlink:href="#constructie-gmsurface">GM_Surface</mim-ext:ConstructieRef>
+                        <mim-ext:ConstructieRef index="1001"
+                                                xlink:href="#imcartografie-gmlprofile-gmsurface-d11965e894">GM_Surface</mim-ext:ConstructieRef>
                      </mim:type>
                      <mim:indicatieMaterieleHistorie>false</mim:indicatieMaterieleHistorie>
                      <mim:indicatieFormeleHistorie>false</mim:indicatieFormeleHistorie>
@@ -587,13 +616,17 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
             </mim:Objecttype>
          </mim:objecttypen>
          <mim:keuzen>
-            <mim:Keuze index="1075" id="cartografie-keuze-lijnofpunt">
+            <mim:Keuze index="1075" id="imcartografie-cartografie-lijnofpunt-d11965e842">
                <mim:naam>LijnOfPunt</mim:naam>
                <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
                <mim:datumOpname>10-04-2025</mim:datumOpname>
                <mim:keuzeDatatypen>
-                  <mim-ext:ConstructieRef index="1087" label="lijn" xlink:href="#constructie-gmcurve">GM_Curve</mim-ext:ConstructieRef>
-                  <mim-ext:ConstructieRef index="1115" label="punt" xlink:href="#constructie-gmpoint">GM_Point</mim-ext:ConstructieRef>
+                  <mim-ext:ConstructieRef index="1087"
+                                          label="lijn"
+                                          xlink:href="#imcartografie-gmlprofile-gmcurve-d11965e878">GM_Curve</mim-ext:ConstructieRef>
+                  <mim-ext:ConstructieRef index="1115"
+                                          label="punt"
+                                          xlink:href="#imcartografie-gmlprofile-gmpoint-d11965e886">GM_Point</mim-ext:ConstructieRef>
                </mim:keuzeDatatypen>
                <mim-ext:kenmerken>
                   <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
@@ -601,13 +634,13 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
             </mim:Keuze>
          </mim:keuzen>
          <mim-ext:kenmerken>
-            <mim-ext:Kenmerk naam="Release">20250410</mim-ext:Kenmerk>
+            <mim-ext:Kenmerk naam="Release">20251118</mim-ext:Kenmerk>
             <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
             <mim-ext:Kenmerk naam="namespace">http://developer.kadaster.nl/schemas/brt/car/cartografie</mim-ext:Kenmerk>
          </mim-ext:kenmerken>
       </mim:Domein>
       <!--https://docs.geostandaarden.nl/mim/mim/#extern-->
-      <mim:Extern index="1222" id="OUTSIDE-2">
+      <mim:Extern index="1229" id="OUTSIDE-2">
          <mim:naam>GMLPROFILE</mim:naam>
          <mim:herkomst>Kadaster</mim:herkomst>
          <mim:definitie>ISO19107 Geographic information – Spatial schema</mim:definitie>
@@ -616,21 +649,21 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
          <!--https://docs.geostandaarden.nl/mim/mim/#metagegeven-locatie-->
          <mim:locatie>X</mim:locatie>
          <mim-ext:constructies>
-            <mim-ext:Constructie index="1257" id="constructie-gmcurve">
+            <mim-ext:Constructie index="1264" id="imcartografie-gmlprofile-gmcurve-d11965e878">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>GM_Curve</mim:naam>
                <mim-ext:kenmerken>
                   <mim-ext:Kenmerk naam="oasnaam">linestringGeoJSON</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="1263" id="constructie-gmpoint">
+            <mim-ext:Constructie index="1270" id="imcartografie-gmlprofile-gmpoint-d11965e886">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>GM_Point</mim:naam>
                <mim-ext:kenmerken>
                   <mim-ext:Kenmerk naam="oasnaam">pointGeoJSON</mim-ext:Kenmerk>
                </mim-ext:kenmerken>
             </mim-ext:Constructie>
-            <mim-ext:Constructie index="1251" id="constructie-gmsurface">
+            <mim-ext:Constructie index="1258" id="imcartografie-gmlprofile-gmsurface-d11965e894">
                <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
                <mim:naam>GM_Surface</mim:naam>
                <mim-ext:kenmerken>
@@ -644,7 +677,7 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
             <mim-ext:Kenmerk naam="namespace">http://www.opengis.net/gml/3.2</mim-ext:Kenmerk>
          </mim-ext:kenmerken>
       </mim:Extern>
-      <mim:Extern index="1276" id="OUTSIDE-3">
+      <mim:Extern index="1283" id="OUTSIDE-3">
          <mim:naam>GMLSF</mim:naam>
          <mim:herkomst><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomst>
          <mim:definitie>GML Simple Feature Profile</mim:definitie>
@@ -657,15 +690,58 @@ commentaar toegevoegd. Dat is alleen bij de éérste opkomst van een contructie 
             <mim-ext:Kenmerk naam="namespace">http://www.opengis.net/gmlsf/2.0</mim-ext:Kenmerk>
          </mim-ext:kenmerken>
       </mim:Extern>
+      <mim:Extern index="1172" id="OUTSIDE-1">
+         <mim:naam>MIM11</mim:naam>
+         <mim:herkomst>MIM</mim:herkomst>
+         <mim:definitie>De primitieve datatypen zoals vastgesteld in de MIM 1.1 specificatie</mim:definitie>
+         <mim:herkomstDefinitie><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:herkomstDefinitie>
+         <mim:datumOpname><!-- FOUT: De waarde voor dit verplichte metagegeven is niet gespecificeerd in het model --></mim:datumOpname>
+         <mim:locatie>https://docs.geostandaarden.nl/mim/</mim:locatie>
+         <mim-ext:constructies>
+            <mim-ext:Constructie index="1221" id="imcartografie-mim11-uri-d11965e943">
+               <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
+               <mim:naam>URI</mim:naam>
+               <mim-ext:kenmerken>
+                  <mim-ext:Kenmerk naam="oasnaam">uri</mim-ext:Kenmerk>
+               </mim-ext:kenmerken>
+            </mim-ext:Constructie>
+            <mim-ext:Constructie index="1214" id="imcartografie-mim11-date-d11965e951">
+               <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
+               <mim:naam>Date</mim:naam>
+               <mim-ext:kenmerken>
+                  <mim-ext:Kenmerk naam="oasnaam">date</mim-ext:Kenmerk>
+               </mim-ext:kenmerken>
+            </mim-ext:Constructie>
+            <mim-ext:Constructie index="1207" id="imcartografie-mim11-integer-d11965e959">
+               <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
+               <mim:naam>Integer</mim:naam>
+               <mim-ext:kenmerken>
+                  <mim-ext:Kenmerk naam="oasnaam">integer</mim-ext:Kenmerk>
+               </mim-ext:kenmerken>
+            </mim-ext:Constructie>
+            <mim-ext:Constructie index="1200" id="imcartografie-mim11-characterstring-d11965e967">
+               <mim-ext:constructietype>INTERFACE</mim-ext:constructietype>
+               <mim:naam>CharacterString</mim:naam>
+               <mim-ext:kenmerken>
+                  <mim-ext:Kenmerk naam="oasnaam">string</mim-ext:Kenmerk>
+               </mim-ext:kenmerken>
+            </mim-ext:Constructie>
+         </mim-ext:constructies>
+         <mim-ext:kenmerken>
+            <mim-ext:Kenmerk naam="familie"/>
+            <mim-ext:Kenmerk naam="version">1.0.0</mim-ext:Kenmerk>
+            <mim-ext:Kenmerk naam="namespace">http://www.geonovum.nl/MIM11</mim-ext:Kenmerk>
+         </mim-ext:kenmerken>
+      </mim:Extern>
    </mim:packages>
    <mim-ext:kenmerken>
       <mim-ext:Kenmerk naam="Alternatieve naam">TOPNL cartografie</mim-ext:Kenmerk>
       <mim-ext:Kenmerk naam="Imvertor">model</mim-ext:Kenmerk>
       <mim-ext:Kenmerk naam="Is afgeleid">Zie package</mim-ext:Kenmerk>
       <mim-ext:Kenmerk naam="Niveau">specifiek</mim-ext:Kenmerk>
-      <mim-ext:Kenmerk naam="Release">20250410</mim-ext:Kenmerk>
+      <mim-ext:Kenmerk naam="Release">20251118</mim-ext:Kenmerk>
       <mim-ext:Kenmerk naam="version">1.0</mim-ext:Kenmerk>
       <mim-ext:Kenmerk naam="namespace">http://developer.kadaster.nl/schemas/brt/car</mim-ext:Kenmerk>
-      <mim-ext:Kenmerk naam="imvertor-version">4.3.0</mim-ext:Kenmerk>
+      <mim-ext:Kenmerk naam="imvertor-version">Nightly-build.0</mim-ext:Kenmerk>
    </mim-ext:kenmerken>
 </mim:Informatiemodel>
